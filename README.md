@@ -1,1 +1,1 @@
-# component-library
+# react-component-library
